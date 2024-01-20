@@ -1,0 +1,27 @@
+.cs-message--outgoing .cs-message__content{
+  color: rgb(255 255 255 / 87%);
+  background-color: #424242;
+}
+.cs-message--incoming .cs-message__content{
+  color: rgba(0,0,0,.87);
+   background-color: #f0f0f0;
+}
+.cs-conversation.cs-conversation--active{
+  background-color: #f0f0f0;
+}
+.cs-conversation.cs-conversation--active .cs-conversation__name{
+  color:#040404;
+}
+a{
+  text-decoration: none;
+}
+.cs-message-input__content-editor-wrapper{
+  background-color: #f1f1f1;
+}
+.cs-message-input__content-editor{
+  background-color: #f2f2f2;
+}
+.cs-button--send {
+  color: #000000;
+  background-color: transparent;
+}
