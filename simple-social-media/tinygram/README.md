@@ -11,7 +11,7 @@ Tinygram is a cutting-edge social media platform 😊 that brings the world of v
 Clone the project
 
 ```bash
-  git clone https://github.com/developersharif/tinygram.git
+  git clone https://github.com/powerdanaw/981222007-social-network.git
 ```
 
 Go to the project directory
@@ -93,7 +93,7 @@ Start the socket server
 1.
 
 ```bash
-git clone https://github.com/developersharif/tinygram.git && cd tinygram && composer install && cp .env.example .env
+git clone https://github.com/powerdanaw/981222007-social-network.git && cd tinygram && composer install && cp .env.example .env
 
 ```
 
@@ -126,7 +126,7 @@ https://labs.play-with-docker.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/developersharif/tinygram.git
+  git clone https://github.com/powerdanaw/981222007-social-network.git
 ```
 
 Go to the project directory
@@ -194,7 +194,3 @@ https://github.com/developersharif/tinygram/assets/54396379/57938efa-763d-4da1-9
 **Client:** Alpinejs, DaisyUI, TailwindCSS, Fontawesome, Reactjs(/chat route)
 
 **Server:** PHP8.2, Laravel10.x,Blade ,(Node,NPM to build TailwindCSS)
-
-## Authors
-
--   [@developersharif](https://www.github.com/developersharif)
